@@ -14,3 +14,7 @@ Este repositorio se creó como práctica para aprender a usar **repositorios, ra
 - Se realizó un commit y un pull request.
 - Se implemento el uso de ramas y fork 
 
+# Modificado por 
+  * Moranny Rubio
+# Descripción
+  Agregar imagenes al proyecto
